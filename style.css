@@ -6,7 +6,7 @@
 
 main {
     margin: auto;
-    margin-top: 5rem;
+    margin-top: 3.5rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -43,7 +43,6 @@ header {
 .cafe {
     width: 7rem;
     height: 5rem;
-    /* padding: 2rem; */
     padding-left: 2.1rem;
     background-color: black;
 }
@@ -78,7 +77,6 @@ section img {
 
 .foodtext img {
     width: 1.3rem;
-    /* background-color: black; */
     height: 1.3rem;
 
 
