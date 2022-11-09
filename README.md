@@ -9,8 +9,8 @@ Clone or download this repository and run with a local server of open `index.htm
 ## Tech/framework used
 - Html
 - Css
-## Preview
-[Demo](https://rawcdn.githack.com/Intelligence247/loop2step4/44675b356e46eb9d603980628f16ad01b0d14afc/index.html)
+## Demo
+[Go Live](https://rawcdn.githack.com/Intelligence247/loop2step4/4a91ac0fb39cd179392f4a13246bb2fd931eaff4/index.html)
 
 ![screenshot](/media/sketch.png)
 ## Contact
