@@ -115,13 +115,8 @@ section img {
     border: none;
 }
 
-.list:hover {
+.list:hover p:nth-child(2) {
     color: #1f2d3f;
-    font-size: 18px;
+    transform: scale(1.5);
     cursor: pointer;
-}
-
-.list p:first-child {
-    color: #9f9d9e;
-    font-size: 16px;
 }
